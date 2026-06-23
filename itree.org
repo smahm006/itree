@@ -1,0 +1,35 @@
+
+* Itree
+** Flags
+- --output, -o <format> table (default), json, csv
+- --server, -s <url> override configured server
+- --token, -t <token> override configured API token
+- --verbose, -v show request/response details
+- --limit <n> max results for list commands
+** Config
+*** List
+*** Get
+*** Add
+*** Remove
+** Category
+*** List
+*** Get
+*** Add
+*** Remove
+** Part
+*** List
+*** Get
+*** Add
+*** Remove
+** Stock
+*** List
+*** Get
+*** Add
+*** Adjust
+*** Move
+*** Remove
+** Location
+*** List
+*** Get
+*** Add
+*** Remove?
